@@ -16,7 +16,7 @@ tagline:             'tagline'
 description:         'description'
 url:                 site url
 rss:                 rss feed url
-baseurl:             '/buckle'
+baseurl:             '/buckle/'
 baseurl_posts_img:   '/buckle/assets/images/posts/'
 baseurl_featured_img: '/buckle/assets/images/hero/'
 baseurl_featured_thumbnail: '/buckle/assets/images/thumbnail/'
