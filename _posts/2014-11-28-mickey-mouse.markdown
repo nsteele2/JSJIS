@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Mickey Mouse"
-date:   2014-11-28 01:00:00
+title:  "Turkey: A Troubled Land"
+date:   2017-11-28 01:00:00
 last_modified_at:  2014-11-28 01:00:00
-excerpt: "Mickey Mouse is a funny animal cartoon character and the official mascot of..."
+excerpt: "In between a..."
 categories: history
-tags:  mickey
+tags:  Turkey, politics,
 image:
-  feature: mickey-mouse.jpg
+  feature: instanbul.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
