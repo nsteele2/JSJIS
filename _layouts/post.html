@@ -56,7 +56,7 @@ layout: default
     <div class="container container--content">
       <div class="content-body">
         {% include subscribe.html %}
-        {% include comments.html %}
+        {% comment %}{% include comments.html %}{% endcomment %}
       </div>
     </div>
   </section>
@@ -80,7 +80,7 @@ layout: default
         <div class="section-title u-tableCell u-verticalAlignMiddle">
           <div class="container">
             <h4>Next story:</h4>
-            <a class="prev" href="{{page.previous.url}}">
+            <a class="prev" href="{{page.previous.url | prepend: site.github.url }}">
               <h2>{{page.previous.title}}</h2>
             </a>
           </div>
