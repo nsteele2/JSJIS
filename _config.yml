@@ -1,11 +1,9 @@
 
 # Syntax highlighting
-# markdown:            redcarpet
-highlighter:         pygments
+highlighter:         rouge
 
 # Permalinks
 permalink:           /:title
-# relative_permalinks: true
 
 # Setup
 timezone:            America/Los_Angeles
