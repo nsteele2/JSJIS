@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Mountains of Argentina"
-date:   1983-12-16 01:00:00
-date:   1983-12-16 01:00:00
-excerpt: "Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was..."
+title: "Mountains of Argentina"
+date: 1983-12-16 01:00:00
+last_modified_at: 1983-12-16 01:00:00
 categories: history
-tags:  mickey
+tags: [Argentina]
 image:
   feature: argentina-ice.jpg
   topPosition: -100px

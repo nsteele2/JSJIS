@@ -5,7 +5,7 @@ date:   2017-1-8 01:00:00
 last_modified_at:  2014-12-15 01:00:00
 excerpt: "Shandong province has begun the transition from unsustainable debt financed growth to an economy based on consumer spending..."
 categories: economics, China
-tags:  China, economy, politics,
+tags:  [China, economy, politics]
 image:
   feature: shandong-title.jpg
   topPosition: -300px
@@ -13,7 +13,7 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-Sourcesdsfsf: [Wikipedia](https://en.wikipedia.org/wiki/Walt_Disney)
+Sources: [Wikipedia](https://en.wikipedia.org/wiki/Walt_Disney)
 
 Abstract: This essay examines several key structural issues imbedded in China’s economy. I focus on Shandong province in particular because it is viewed as the bellwether for other provinces. Shandong province has begun the transition from unsustainable debt financed growth to an economy based on consumer spending. I argue that this transition is essential for the economic and social stability of the province and the country. By looking at demographic trends, lifestyle data from the census, a variety of economic figures, my argument is firmly supported. Often China’s economy is talked about in broad, tenuous statements– melding a massive social-economy into boilerplate phrases. I want to present the underlying facts of a particular provincial economy and assess the underlying socio-economic issues. This should be an interesting read for those concerned about China’s economy, society, and global growth. Even more, I shed light on the problem of China’s household registry system, positing that a sustainable economy must reform this barrier. Moving forward, I propose three policy reforms that aligns with China’s transition into a consumer driven economy.
 
