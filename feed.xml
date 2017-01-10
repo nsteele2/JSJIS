@@ -19,8 +19,8 @@
 					<description>{{ post.content | xml_escape }}</description>
 				{% endif %}
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-				<link>{{ site.github.url }}{{ post.url }}</link>
-				<guid isPermaLink="true">{{ site.github.url }}{{ post.url }}</guid>
+				<link>{{ post.url | prepend: site.github.url }}</link>
+				<guid isPermaLink="true">{{ post.url | prepend: site.github.url }}</guid>
 			</item>
 		{% endfor %}
 	</channel>
