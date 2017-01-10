@@ -31,18 +31,20 @@ body {
 }
 
 .textLogo {
+  // Make logo actually text by removing background image and text indent
   display: block;
-  background-image: url(../images/logo-text-black.svg);
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: 0 0;
+  // background-image: url(../images/logo-text-black.svg);
+  // background-size: contain;
+  // background-repeat: no-repeat;
+  // background-position: 0 0;
   padding: 0;
-  text-indent: -100em;
+  // text-indent: -100em;
   overflow: hidden;
 }
 
 .textLogo--white {
-  background-image: url(../images/logo-text-white.svg);
+  // background-image: url(../images/logo-text-white.svg);
+  background-image: none;
 }
 
 .textLogo--sidebar {
@@ -50,29 +52,43 @@ body {
   height: auto;
   background-size: contain;
   background-position: center;
-  opacity: 0.8;
+  // opacity: 0.8;
+  color: rgba(255, 255, 255, 0.7);
+  font-weight: bold;
 
   &:hover {
-    opacity: 1;
+    // opacity: 1;
+    color: rgba(255, 255, 255, 1.0);
   }
 }
 
 .textLogo--frontpage {
   position: absolute;
-  top: 132px;
+  top: 90px;
   left: 50%;
   transform: translateX(-50%);
   z-index: $zIndex-5--textlogo-frontpage;
   margin: 0;
-  width: 276px;
-  height: 50px;
-  background-size: 100%;
-  background-position: 0;
+  // width: 276px;
+  // height: 50px;
+  // background-size: 100%;
+  // background-position: 0;
   opacity: 0.9;
 
+  // Fix font size, line height, and bounding box for larger title
+  width: auto;
+  font-size: 2rem;
+  line-height: 2.3rem;
+
+
   @media (max-width: $screen-xs-max) {
-    width: 182px;
-    height: 33px;
-    top: 99px;
+    // width: 182px;
+    // height: 33px;
+    // top: 99px;
+
+    // Fix font size, line height, and bounding box for larger title
+    font-size: 0.8rem;
+    line-height: 0.9rem;
+    top: 15px;
   }
 }

@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Turkey: A Troubled Land"
-date:   2017-11-28 01:00:00
-last_modified_at:  2014-11-28 01:00:00
-excerpt: "In between a..."
+title: "Turkey: A Troubled Land"
+date: 2016-11-16 01:00:00
+last_modified_at: 2014-11-28 01:00:00
 categories: history
-tags:  Turkey, politics,
+tags: [Turkey, politics]
 image:
   feature: instanbul.jpg
   topPosition: -50px

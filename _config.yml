@@ -8,19 +8,19 @@ permalink:           /:title
 # relative_permalinks: true
 
 # Setup
-timezone:            your timezone # eg. Asia/Kathmandu
-locale:              your locale language # eg. en_us
-name:				         The Jackson School Journal of International Studies
-title:               The Jackson School Journal of International Studies title
+timezone:            America/Los_Angeles
+locale:              en_us
+name:				         'The Jackson School Journal of International Studies'
+title:               'The Jackson School Journal of International Studies'
 tagline:             'tagline'
 description:         'description'
 url:                 site url
 rss:                 rss feed url
-baseurl:             '/buckle/'
-baseurl_posts_img:   '/buckle/assets/images/posts/'
-baseurl_featured_img: '/buckle/assets/images/hero/'
-baseurl_featured_thumbnail: '/buckle/assets/images/thumbnail/'
-baseurl_javascripts: '/buckle/assets/javascripts/'
+baseurl:             '/'
+baseurl_posts_img:   '/assets/images/posts/'
+baseurl_featured_img: '/assets/images/hero/'
+baseurl_featured_thumbnail: '/assets/images/thumbnail/'
+baseurl_javascripts: '/assets/javascripts/'
 icon:                your site icon path # /assets/img/icon.png [best 300px X 300px]
 disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
